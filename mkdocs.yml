@@ -1,8 +1,8 @@
 site_name: My Wiki
 site_url: https://Nyssaki.github.io/mywiki/  
+
 exclude_docs: |  
   Attachments/**  
-
 
 theme:
     name: 'material'
