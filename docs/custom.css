@@ -1,4 +1,9 @@
-/* Hide site_name text but keep space for logo */  
-.md-header__topic > span:first-child {  
-    display: none !important;  
-}  
+/* Hide ONLY the site_name text */
+.md-header__topic span:first-child {
+    display: none !important;
+}
+
+/* Ensure buttons remain visible */
+.md-header__button {
+    display: flex !important;
+}
