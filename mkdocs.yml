@@ -54,6 +54,7 @@ markdown_extensions:
 
 plugins:
   - search
+  - obsidian
   - blog
   - rss:
       match_path: blog/posts/.* 
