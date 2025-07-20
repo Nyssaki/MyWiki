@@ -26,9 +26,7 @@ theme:
         icon: material/toggle-switch
         name: Switch to light mode
 
-    # Extra CSS
-    - stylesheets/custom.css 
-
+    
 # Extensions
 markdown_extensions:
   - footnotes
