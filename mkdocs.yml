@@ -1,5 +1,5 @@
 site_name: My Wiki
-site_url: https://Nyssaki.github.io/mywiki/  
+site_url: https://nyssaki.github.io/mywiki/  
 
 exclude_docs: |  
   Attachments/**  
