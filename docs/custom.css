@@ -1,0 +1,4 @@
+/* Hide site_name text but keep space for logo */  
+.md-header__topic > span:first-child {  
+    display: none !important;  
+}  
