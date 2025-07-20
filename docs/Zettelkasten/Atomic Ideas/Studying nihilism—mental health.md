@@ -64,7 +64,7 @@ I'm wondering if nihilism is somehow the argument I have been missing when it co
 
 #Nihilism #Mental-health #Philosophy #Psychology 
 
-Resource: [[Nihilism]]
+Resource: [Nihilism](Nihilism)
 
 # Chapter 2
 
@@ -86,3 +86,9 @@ I remember one of the subjects in the documentary Trip To Infinity mentioned som
 Meaning is then—like many other major aspects of life—a construct made up by society. 
 
 However, the problem I'm feeling might not necessarily be this fact, but rather, that the meaning which is often constructed by society doesn't make sense to me; as if, meaning itself doesn't mean anything sensible. There's a slight irony in this, but think of it this way. Capitalism has been the core value western society has been raised under for the past fifty or so years? And while we've lived through the birth of it, it's peek hour and now, arguably is living through it's downfall—we may have been swimming in materialistic wealth, but what can we say about the rest of our society? The rapid rise of *decline* in mental health: where around every corner there seems to be a comedian joking about medication, or another headline about the loneliness epidemic, and the speed which our financial freedom disintegrates/erodes with each day due to the inflation. We are joking about how everything is "giving recession" to use a 2025-appropriate term, but we fail to see past the grief of a picture perfect lifestyle burning in flames and direct our anger towards rich people (who apparently are the oppresors and the reason for this disaster). As if; the choices to take out all those credit card loan were made by them. As if every purchase done in the name of fashion wasn't done by ourselves, but somehow there were someone there with us, pointing a gun at our head thus forcing us to buy the items. 
+
+
+
+
+
+

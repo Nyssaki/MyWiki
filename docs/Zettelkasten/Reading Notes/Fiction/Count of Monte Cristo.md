@@ -16,12 +16,12 @@ tags:
 ---
 
 
-Cover:: ![[count-of-monte-cristo-960x1440.jpg]]
+Cover:: ![count-of-monte-cristo-960x1440.jpg](count-of-monte-cristo-960x1440.jpg)
 
-- [[#Notes]]
-- [[#Key takeaways]]
-- [[#Quotes]]
-- [[#Summary]]
+- [#Notes](#Notes)
+- [#Key takeaways](#Key takeaways)
+- [#Quotes](#Quotes)
+- [#Summary](#Summary)
 
 ## Notes
 
@@ -30,3 +30,9 @@ Cover:: ![[count-of-monte-cristo-960x1440.jpg]]
 ## Quotes
 
 ## Summary
+
+
+
+
+
+

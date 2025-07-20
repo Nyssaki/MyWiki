@@ -14,13 +14,13 @@ Status: TBR
 tags: 
 ---
 
-Cover::![[George Orwell - 1984.jpg]]
+Cover::![George Orwell - 1984.jpg](George Orwell - 1984.jpg)
 
 
-- [[#Notes]]
-- [[#Key takeaways]]
-- [[#Quotes]]
-- [[#Summary]]
+- [#Notes](#Notes)
+- [#Key takeaways](#Key takeaways)
+- [#Quotes](#Quotes)
+- [#Summary](#Summary)
 
 ## Notes
 
@@ -29,3 +29,9 @@ Cover::![[George Orwell - 1984.jpg]]
 ## Quotes
 
 ## Summary
+
+
+
+
+
+

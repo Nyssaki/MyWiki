@@ -16,13 +16,13 @@ tags:
   - Philosophy
 ---
 
-Cover:: ![[Jean-Paul Sartre - Being and Nothingness.jpg]]
+Cover:: ![Jean-Paul Sartre - Being and Nothingness.jpg](Jean-Paul Sartre - Being and Nothingness.jpg)
 
 
-- [[#Notes]]
-- [[#Key takeaways]]
-- [[#Quotes]]
-- [[#Summary]]
+- [#Notes](#Notes)
+- [#Key takeaways](#Key takeaways)
+- [#Quotes](#Quotes)
+- [#Summary](#Summary)
 
 ## Notes
 
@@ -31,3 +31,9 @@ Cover:: ![[Jean-Paul Sartre - Being and Nothingness.jpg]]
 ## Quotes
 
 ## Summary
+
+
+
+
+
+

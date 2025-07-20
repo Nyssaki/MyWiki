@@ -41,9 +41,9 @@ How to explain this in simpler terms: if you complain that others have no meanin
 
 <u>Self-righteous vs nihilstic:</u> Both are similar insofar they are destructive, but they are opposed in the manner of methods and purpose of their desctructiveness:
 
-The self-righteous often wages war with the general society, but such war are often short-lived, if they happen at all due to the mere fact that they would simply be ignored (or wiped out by the sheer numbers, as the self-righteous would be the part with lesser number). However, when the self-righteous discover that their confrontation seldom leads to the revolution they are hoping for, they'll turn to whatever media that are available to them: traditional media are replaced by social media and shouting ([[Studying nihilism—mental health#note| but has it though]]).
+The self-righteous often wages war with the general society, but such war are often short-lived, if they happen at all due to the mere fact that they would simply be ignored (or wiped out by the sheer numbers, as the self-righteous would be the part with lesser number). However, when the self-righteous discover that their confrontation seldom leads to the revolution they are hoping for, they'll turn to whatever media that are available to them: traditional media are replaced by social media and shouting ([ but has it though](Studying nihilism—mental health#note)).
 
-Nolen Gertz postulates that "questioning the quo[[Studying nihilism—mental health#Questioning the status quo | has become the status quo]]."
+Nolen Gertz postulates that "questioning the quo[ has become the status quo](Studying nihilism—mental health#Questioning the status quo )."
 
 In a seemingly self-righteous society nihilists has therefore gained considerable popularity, and there's some comedic irony to this. Nihilism has then become a some sort of "charge" to be used against anyone who isn't supporting the right morale, but Gertz asks how this is possible when these two philisophies are seemingly on the opposite side of each other? Gertz concludes in this chapter that in doing so we might be taking meaningfulness for granted, and that to answer the question of what nihilism is; we have to leave open whether or not anything in life is actually *meaningful*. 
 
@@ -51,4 +51,10 @@ In a seemingly self-righteous society nihilists has therefore gained considerabl
 
 
 #Philosophy #Nihilism 
+
+
+
+
+
+
 

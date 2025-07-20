@@ -15,12 +15,12 @@ tags:
   - FictionRomance
 ---
 
-Cover:: ![[Jane Austen - Pride And Prejudice.jpg]]
+Cover:: ![Jane Austen - Pride And Prejudice.jpg](Jane Austen - Pride And Prejudice.jpg)
 
-- [[#Notes]]
-- [[#Key takeaways]]
-- [[#Quotes]]
-- [[#Summary]]
+- [#Notes](#Notes)
+- [#Key takeaways](#Key takeaways)
+- [#Quotes](#Quotes)
+- [#Summary](#Summary)
 
 ## Notes
 
@@ -29,3 +29,9 @@ Cover:: ![[Jane Austen - Pride And Prejudice.jpg]]
 ## Quotes
 
 ## Summary
+
+
+
+
+
+

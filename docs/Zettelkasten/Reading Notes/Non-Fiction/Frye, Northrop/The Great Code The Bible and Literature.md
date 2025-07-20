@@ -14,13 +14,13 @@ Status: TBR
 tags: 
 ---
 
-Cover::![[Northrop Frye - The Great Code Bible.jpeg]]
+Cover::![Northrop Frye - The Great Code Bible.jpeg](Northrop Frye - The Great Code Bible.jpeg)
 
 
-- [[#Notes]]
-- [[#Key takeaways]]
-- [[#Quotes]]
-- [[#Summary]]
+- [#Notes](#Notes)
+- [#Key takeaways](#Key takeaways)
+- [#Quotes](#Quotes)
+- [#Summary](#Summary)
 
 ## Notes
 
@@ -29,3 +29,9 @@ Cover::![[Northrop Frye - The Great Code Bible.jpeg]]
 ## Quotes
 
 ## Summary
+
+
+
+
+
+

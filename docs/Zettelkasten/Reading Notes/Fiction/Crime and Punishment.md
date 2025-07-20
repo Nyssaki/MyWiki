@@ -15,14 +15,14 @@ Tags:
 tags: 
 ---
 
-Cover:: ![[Fyodor Dostoyevsky - Crime and Punishment.jpg]]
+Cover:: ![Fyodor Dostoyevsky - Crime and Punishment.jpg](Fyodor Dostoyevsky - Crime and Punishment.jpg)
 
 **Table of contents**
 
-- [[#Notes]]
-- [[#Key takeaways]]
-- [[#Quotes]]
-- [[#Summary]]
+- [#Notes](#Notes)
+- [#Key takeaways](#Key takeaways)
+- [#Quotes](#Quotes)
+- [#Summary](#Summary)
 
   
 
@@ -33,3 +33,9 @@ Cover:: ![[Fyodor Dostoyevsky - Crime and Punishment.jpg]]
 ## Quotes
 
 ## Summary
+
+
+
+
+
+

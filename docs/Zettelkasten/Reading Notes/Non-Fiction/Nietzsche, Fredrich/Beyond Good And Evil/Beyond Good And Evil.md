@@ -14,12 +14,12 @@ Status: TBR
 tags: 
 ---
 
-Cover::![[1000057129.jpg]]
+Cover::![1000057129.jpg](1000057129.jpg)
 
-- [[#Notes]]
-- [[#Key takeaways]]
-- [[#Quotes]]
-- [[#Summary]]
+- [#Notes](#Notes)
+- [#Key takeaways](#Key takeaways)
+- [#Quotes](#Quotes)
+- [#Summary](#Summary)
 
 ## Notes
 
@@ -28,3 +28,9 @@ Cover::![[1000057129.jpg]]
 ## Quotes
 
 ## Summary
+
+
+
+
+
+

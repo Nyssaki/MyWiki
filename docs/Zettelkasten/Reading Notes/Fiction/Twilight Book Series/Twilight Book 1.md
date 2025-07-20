@@ -15,12 +15,12 @@ tags: Fantasy
 ---
 
 
-Cover::![[Twilight Book 1.jpg]]
+Cover::![Twilight Book 1.jpg](Twilight Book 1.jpg)
 
-- [[#Notes]]
-- [[#Key takeaways]]
-- [[#Quotes]]
-- [[#Summary]]
+- [#Notes](#Notes)
+- [#Key takeaways](#Key takeaways)
+- [#Quotes](#Quotes)
+- [#Summary](#Summary)
 
 ## Notes
 
@@ -29,3 +29,9 @@ Cover::![[Twilight Book 1.jpg]]
 ## Quotes
 
 ## Summary
+
+
+
+
+
+

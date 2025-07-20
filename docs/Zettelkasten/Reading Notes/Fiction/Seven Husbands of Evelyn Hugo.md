@@ -15,13 +15,13 @@ tags:
 ---
 
 
-Cover::![[Seven Husbands of Evelyn Hugo.jpg]]
+Cover::![Seven Husbands of Evelyn Hugo.jpg](Seven Husbands of Evelyn Hugo.jpg)
 
 
-- [[#Notes]]
-- [[#Key takeaways]]
-- [[#Quotes]]
-- [[#Summary]]
+- [#Notes](#Notes)
+- [#Key takeaways](#Key takeaways)
+- [#Quotes](#Quotes)
+- [#Summary](#Summary)
 
 ## Notes
 
@@ -30,3 +30,9 @@ Cover::![[Seven Husbands of Evelyn Hugo.jpg]]
 ## Quotes
 
 ## Summary
+
+
+
+
+
+

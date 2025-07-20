@@ -5,27 +5,27 @@ status: In-Progress
 
 **<u>To use internal links within notes:</u>**  
 ```
-[[ ]]
+[ ]( )
 ```
 
 
 **<u>To change the display text:</u>** 
 ```
-[[ link |  custom text ]]
+[  custom text ]( link )
 ```
 
 
 <u>For internal links between different notes; use Headings. </u>
 
 ```
-[[ link # heading | custom text ]]
+[ custom text ]( link # heading )
 ```
 
 
 To create new file while making links,  make sure to click on the link to create the file
 ```
 
-[[folder/file | display text ]]
+[ display text ](folder/file )
 
 ```
 
@@ -79,3 +79,9 @@ This is then only interpretated by the template and not all the other plugins of
 
 
 #Obsidian #Productivity 
+
+
+
+
+
+

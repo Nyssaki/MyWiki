@@ -14,13 +14,13 @@ Status: TBR
 tags: 
 ---
 
-Cover::![[Jean-Paul Sartre Albert Camus - No Exit and Three Other Plays.jpg]]
+Cover::![Jean-Paul Sartre Albert Camus - No Exit and Three Other Plays.jpg](Jean-Paul Sartre Albert Camus - No Exit and Three Other Plays.jpg)
 
 
-- [[#Notes]]
-- [[#Key takeaways]]
-- [[#Quotes]]
-- [[#Summary]]
+- [#Notes](#Notes)
+- [#Key takeaways](#Key takeaways)
+- [#Quotes](#Quotes)
+- [#Summary](#Summary)
 
 ## Notes
 
@@ -29,4 +29,10 @@ Cover::![[Jean-Paul Sartre Albert Camus - No Exit and Three Other Plays.jpg]]
 ## Quotes
 
 ## Summary
+
+
+
+
+
+
 

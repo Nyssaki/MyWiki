@@ -26,3 +26,9 @@ The problem is that I don't actually have any proper alternative when buying fro
 
 
 #Android #Technology #Samsung
+
+
+
+
+
+

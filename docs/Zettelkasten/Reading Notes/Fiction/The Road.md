@@ -15,14 +15,14 @@ Status: TBR
 tags: 
 ---
 
-Cover::![[Cormac - The Road.jpg]]
+Cover::![Cormac - The Road.jpg](Cormac - The Road.jpg)
 
 
 
-- [[#Notes]]
-- [[#Key takeaways]]
-- [[#Quotes]]
-- [[#Summary]]
+- [#Notes](#Notes)
+- [#Key takeaways](#Key takeaways)
+- [#Quotes](#Quotes)
+- [#Summary](#Summary)
 
 ## Notes
 
@@ -31,3 +31,9 @@ Cover::![[Cormac - The Road.jpg]]
 ## Quotes
 
 ## Summary
+
+
+
+
+
+

@@ -11,13 +11,13 @@ Status: On-Hold
 tags: 
 ---
 
-Cover :: ![[Cal Newport - Digital Minimalism.jpg]]
+Cover :: ![Cal Newport - Digital Minimalism.jpg](Cal Newport - Digital Minimalism.jpg)
 
 
-- [[#Notes]]
-- [[#Key takeaways]]
-- [[#Quotes]]
-- [[#Summary]]
+- [#Notes](#Notes)
+- [#Key takeaways](#Key takeaways)
+- [#Quotes](#Quotes)
+- [#Summary](#Summary)
 
 ## Notes
 
@@ -26,3 +26,9 @@ Cover :: ![[Cal Newport - Digital Minimalism.jpg]]
 ## Quotes
 
 ## Summary
+
+
+
+
+
+

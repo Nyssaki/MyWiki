@@ -34,3 +34,9 @@ tag: #Technology
 
 Task: insurance one form or another if any of these devices break –
 
+
+
+
+
+
+

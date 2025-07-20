@@ -14,13 +14,13 @@ Status: Read
 tags: 
 ---
 
-Cover::![[Dead Poet.jpg]]
+Cover::![Dead Poet.jpg](Dead Poet.jpg)
 
 
-- [[#Notes]]
-- [[#Key takeaways]]
-- [[#Quotes]]
-- [[#Summary]]
+- [#Notes](#Notes)
+- [#Key takeaways](#Key takeaways)
+- [#Quotes](#Quotes)
+- [#Summary](#Summary)
 
 ## Notes
 
@@ -37,3 +37,9 @@ Cover::![[Dead Poet.jpg]]
   
 
 ## Summary
+
+
+
+
+
+

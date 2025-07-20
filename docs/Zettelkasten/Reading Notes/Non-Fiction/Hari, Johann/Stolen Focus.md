@@ -14,7 +14,7 @@ Status: Finished
 tags: 
 ---
 
-Cover :: ![[Johann Hari - Stolen Focus.jpg]]
+Cover :: ![Johann Hari - Stolen Focus.jpg](Johann Hari - Stolen Focus.jpg)
 
 
 
@@ -83,7 +83,7 @@ Humans love the speed: we feel connected to the whole world and we like to feel 
 
 **A metaphor for the future** 
 
-![[Pasted image 20240614002628.png]]
+![Pasted image 20240614002628.png](Pasted image 20240614002628.png)
 To quote Sune Lehmann: There will be an upper class of people who are very aware of the risks to their attention and find ways to live within their limits, and then there will be the rest of the society with fewer resources to resist the manipulation, and they're going to be living more and more inside their computers, being manipulated. 
 
 In general, humans want to take the easy way out, but what makes us happy is doing the thing that is a little bit difficult. What's happening with our cellphones is that we put a thing that's in our pocket that's with us all the time which always offers an easy thing to do, rather than the important thing."
@@ -120,3 +120,9 @@ However, because load of information is so massive, Johann Hari wonders if we ar
 # Cause Six: The Rise of Technology That Can Track and Manipulate You
 # Cause Seven: The Rise of Cruel Optimism
 # Cause Eight: The Surge in Stress
+
+
+
+
+
+

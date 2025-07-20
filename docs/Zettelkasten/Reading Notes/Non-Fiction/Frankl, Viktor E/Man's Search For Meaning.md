@@ -14,14 +14,14 @@ Isbn13: "9780807060100"
 Status: TBR
 tags: 
 ---
-Cover:: ![[Viktor Frankl - Search For Meaning.jpeg]]
+Cover:: ![Viktor Frankl - Search For Meaning.jpeg](Viktor Frankl - Search For Meaning.jpeg)
 
 
 
-- [[#Notes]]
-- [[#Key takeaways]]
-- [[#Quotes]]
-- [[#Summary]]
+- [#Notes](#Notes)
+- [#Key takeaways](#Key takeaways)
+- [#Quotes](#Quotes)
+- [#Summary](#Summary)
 
 ## Notes
 
@@ -30,3 +30,9 @@ Cover:: ![[Viktor Frankl - Search For Meaning.jpeg]]
 ## Quotes
 
 ## Summary
+
+
+
+
+
+

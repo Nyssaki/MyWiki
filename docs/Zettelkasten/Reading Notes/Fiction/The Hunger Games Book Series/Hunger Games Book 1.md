@@ -14,5 +14,11 @@ Status: Read
 tags: Fantasy
 ---
 
-Cover::![[Hunger Games.jpg]]
+Cover::![Hunger Games.jpg](Hunger Games.jpg)
+
+
+
+
+
+
 

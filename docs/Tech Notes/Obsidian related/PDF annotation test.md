@@ -9,3 +9,9 @@ So the current workflow for pdfs: annotate in Notewise -> notes in Obsidian -> m
 
 #Obsidian #Productivity 
 
+
+
+
+
+
+

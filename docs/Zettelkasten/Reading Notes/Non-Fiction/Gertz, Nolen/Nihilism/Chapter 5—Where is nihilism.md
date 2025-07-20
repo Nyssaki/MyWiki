@@ -15,3 +15,9 @@ Public political activity and swapped it fro commercial activity only
 
 Nihilism as something psychological or systemic 
 
+
+
+
+
+
+

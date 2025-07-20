@@ -14,12 +14,12 @@ Status: TBR
 tags: Science
 ---
 
-Cover:: ![[Feynman Lectures On Physics Volume 1.jpg]]
+Cover:: ![Feynman Lectures On Physics Volume 1.jpg](Feynman Lectures On Physics Volume 1.jpg)
 
-- [[#Notes]]
-- [[#Key takeaways]]
-- [[#Quotes]]
-- [[#Summary]]
+- [#Notes](#Notes)
+- [#Key takeaways](#Key takeaways)
+- [#Quotes](#Quotes)
+- [#Summary](#Summary)
 
 ## Notes
 
@@ -28,3 +28,9 @@ Cover:: ![[Feynman Lectures On Physics Volume 1.jpg]]
 ## Quotes
 
 ## Summary
+
+
+
+
+
+

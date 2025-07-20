@@ -12,10 +12,10 @@ tags:
 
 [![](https://www.notion.so)](https://www.notion.so)
 
-- [[#Notes]]
-- [[#Key takeaways]]
-- [[#Quotes]]
-- [[#Summary]]
+- [#Notes](#Notes)
+- [#Key takeaways](#Key takeaways)
+- [#Quotes](#Quotes)
+- [#Summary](#Summary)
 
 ## Notes
 
@@ -24,3 +24,9 @@ tags:
 ## Quotes
 
 ## Summary
+
+
+
+
+
+

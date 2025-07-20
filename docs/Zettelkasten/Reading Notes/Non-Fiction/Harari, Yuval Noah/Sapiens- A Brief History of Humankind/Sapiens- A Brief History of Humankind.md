@@ -14,15 +14,15 @@ Status: TBR
 tags: 
 ---
 
-Cover:: ![[Yuval Noah Harari - Sapiens.jpg]]
+Cover:: ![Yuval Noah Harari - Sapiens.jpg](Yuval Noah Harari - Sapiens.jpg)
 
 
 **Table of contents**
 
-- [[#Notes]]
-- [[#Key takeaways]]
-- [[#Quotes]]
-- [[#Summary]]
+- [#Notes](#Notes)
+- [#Key takeaways](#Key takeaways)
+- [#Quotes](#Quotes)
+- [#Summary](#Summary)
 
   
 
@@ -33,3 +33,9 @@ Cover:: ![[Yuval Noah Harari - Sapiens.jpg]]
 ## Quotes
 
 ## Summary
+
+
+
+
+
+

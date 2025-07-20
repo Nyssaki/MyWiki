@@ -16,13 +16,13 @@ tags:
   - Fantasy
 ---
 
-Cover::![[Twilight New Moon.jpg]]
+Cover::![Twilight New Moon.jpg](Twilight New Moon.jpg)
 
 
-- [[#Notes]]
-- [[#Key takeaways]]
-- [[#Quotes]]
-- [[#Summary]]
+- [#Notes](#Notes)
+- [#Key takeaways](#Key takeaways)
+- [#Quotes](#Quotes)
+- [#Summary](#Summary)
 
 ## Notes
 
@@ -31,3 +31,9 @@ Cover::![[Twilight New Moon.jpg]]
 ## Quotes
 
 ## Summary
+
+
+
+
+
+

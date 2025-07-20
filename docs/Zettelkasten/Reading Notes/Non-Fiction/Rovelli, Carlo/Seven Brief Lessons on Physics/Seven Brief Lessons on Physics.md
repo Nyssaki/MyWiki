@@ -19,12 +19,12 @@ Category: Nonfiction
 
 
 
-Cover::![[1000057130.jpg]]
+Cover::![1000057130.jpg](1000057130.jpg)
 
-- [[#Notes]]
-- [[#Key takeaways]]
-- [[#Quotes]]
-- [[#Summary]]
+- [#Notes](#Notes)
+- [#Key takeaways](#Key takeaways)
+- [#Quotes](#Quotes)
+- [#Summary](#Summary)
 
 ## Notes
 
@@ -33,3 +33,9 @@ Cover::![[1000057130.jpg]]
 ## Quotes
 
 ## Summary
+
+
+
+
+
+

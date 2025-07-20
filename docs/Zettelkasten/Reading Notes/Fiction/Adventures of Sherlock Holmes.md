@@ -16,12 +16,12 @@ tags:
 ---
   
 
-Cover:: ![[1000057142.jpg]]
+Cover:: ![1000057142.jpg](1000057142.jpg)
 
-- [[#Notes]]
-- [[#Key takeaways]]
-- [[#Quotes]]
-- [[#Summary]]
+- [#Notes](#Notes)
+- [#Key takeaways](#Key takeaways)
+- [#Quotes](#Quotes)
+- [#Summary](#Summary)
 
 ## Notes
 
@@ -30,3 +30,9 @@ Cover:: ![[1000057142.jpg]]
 ## Quotes
 
 ## Summary
+
+
+
+
+
+

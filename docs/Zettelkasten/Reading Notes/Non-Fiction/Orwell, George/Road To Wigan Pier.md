@@ -14,12 +14,12 @@ Status: TBR
 tags: 
 ---
 
-Cover::![[George Orwell - The Road to Wigan Pier.jpg]]
+Cover::![George Orwell - The Road to Wigan Pier.jpg](George Orwell - The Road to Wigan Pier.jpg)
 
-- [[#Notes]]
-- [[#Key takeaways]]
-- [[#Quotes]]
-- [[#Summary]]
+- [#Notes](#Notes)
+- [#Key takeaways](#Key takeaways)
+- [#Quotes](#Quotes)
+- [#Summary](#Summary)
 
 ## Notes
 
@@ -28,3 +28,9 @@ Cover::![[George Orwell - The Road to Wigan Pier.jpg]]
 ## Quotes
 
 ## Summary
+
+
+
+
+
+

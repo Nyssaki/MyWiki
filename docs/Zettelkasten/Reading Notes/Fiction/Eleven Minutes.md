@@ -15,12 +15,12 @@ tags:
   - FictionLiterary
 ---
 
-Cover::![[Paulo Coelho - Eleven Minutes.jpg]]
+Cover::![Paulo Coelho - Eleven Minutes.jpg](Paulo Coelho - Eleven Minutes.jpg)
 
-- [[#Notes]]
-- [[#Key takeaways]]
-- [[#Quotes]]
-- [[#Summary]]
+- [#Notes](#Notes)
+- [#Key takeaways](#Key takeaways)
+- [#Quotes](#Quotes)
+- [#Summary](#Summary)
 
 ## Notes
 
@@ -29,4 +29,10 @@ Cover::![[Paulo Coelho - Eleven Minutes.jpg]]
 ## Quotes
 
 ## Summary
+
+
+
+
+
+
 

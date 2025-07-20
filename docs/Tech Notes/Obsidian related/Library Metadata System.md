@@ -7,3 +7,9 @@ Read
 Finished — This means I've also done writing notes
 On-Hold — A break from reading
 Dropped — Intentionally stopped reading
+
+
+
+
+
+

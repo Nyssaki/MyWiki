@@ -7,7 +7,7 @@ tags:
 ---
 
 The type of library I want to create: 
-![[Pasted image 20250531002232.jpg]]
+![Pasted image 20250531002232.jpg](Pasted image 20250531002232.jpg)
 
 Steps: 
 
@@ -45,4 +45,10 @@ Source for this method:
 https://www.reddit.com/r/ObsidianMD/comments/128uftg/im_continually_surprised_what_i_can_do_in/
 
 https://minimal.guide/cards
+
+
+
+
+
+
 

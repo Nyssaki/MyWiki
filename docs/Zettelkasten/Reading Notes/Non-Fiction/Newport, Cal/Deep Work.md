@@ -13,13 +13,13 @@ tags:
 ---
 
 
-Cover :: ![[Cal Newport - Deep Work.jpg]]
+Cover :: ![Cal Newport - Deep Work.jpg](Cal Newport - Deep Work.jpg)
 
 
-- [[#Notes]]
-- [[#Key takeaways]]
-- [[#Quotes]]
-- [[#Summary]]
+- [#Notes](#Notes)
+- [#Key takeaways](#Key takeaways)
+- [#Quotes](#Quotes)
+- [#Summary](#Summary)
 
 ## Notes
 
@@ -28,3 +28,9 @@ Cover :: ![[Cal Newport - Deep Work.jpg]]
 ## Quotes
 
 ## Summary
+
+
+
+
+
+

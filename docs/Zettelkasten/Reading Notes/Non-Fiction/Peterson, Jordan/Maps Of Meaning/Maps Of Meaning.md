@@ -12,7 +12,13 @@ tags:
 ---
 
 
-Cover::![[Jordan B Peterson - Maps of Meaning.jpg]]
+Cover::![Jordan B Peterson - Maps of Meaning.jpg](Jordan B Peterson - Maps of Meaning.jpg)
+
+
+
+
+
+
 
 
 

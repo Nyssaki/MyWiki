@@ -16,13 +16,13 @@ tags:
 ---
 
 
-Cover::![[Dune.jpg]]
+Cover::![Dune.jpg](Dune.jpg)
 
 
-- [[#Notes]]
-- [[#Key takeaways]]
-- [[#Quotes]]
-- [[#Summary]]
+- [#Notes](#Notes)
+- [#Key takeaways](#Key takeaways)
+- [#Quotes](#Quotes)
+- [#Summary](#Summary)
 
   
 
@@ -35,3 +35,9 @@ Cover::![[Dune.jpg]]
 ## Quotes
 
 ## Summary
+
+
+
+
+
+

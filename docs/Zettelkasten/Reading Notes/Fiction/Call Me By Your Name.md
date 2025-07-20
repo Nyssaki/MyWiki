@@ -15,24 +15,24 @@ tags:
 
 
 
-Cover::![[call me by your name.jpg]]
+Cover::![call me by your name.jpg](call me by your name.jpg)
 
 
-![[CMBYN_cover.jpeg|300x168]]
+![300x168](CMBYN_cover.jpeg)
 
-![[call.jpg]]
+![call.jpg](call.jpg)
 
-![[cmbyn4.jpg]]
+![cmbyn4.jpg](cmbyn4.jpg)
 
-![[p-33.jpg]]
+![p-33.jpg](p-33.jpg)
 
 ## Notes
 
 ## Quotes
 
-![[Untitled 6.png|640x52]]
+![640x52](Untitled 6.png)
 
-![[Untitled 1.png|640x24]]
+![640x24](Untitled 1.png)
 
 > [!important] “The best I can do is pretend I don’t care.” —
 > 
@@ -82,25 +82,31 @@ Meaning of the colors of Olivers’ bathing shorts, according to Elio:
 
 ## THEMES
 
-![[Untitled 2 2.png]]
+![Untitled 2 2.png](Untitled 2 2.png)
 
-![[Screenshot_20230802_022602_Chrome.jpg]]
+![Screenshot_20230802_022602_Chrome.jpg](Screenshot_20230802_022602_Chrome.jpg)
  
 
-![[Untitled 3 2.png]]
+![Untitled 3 2.png](Untitled 3 2.png)
 
-![[Screenshot_20230802_022705_Chrome.jpg]]
+![Screenshot_20230802_022705_Chrome.jpg](Screenshot_20230802_022705_Chrome.jpg)
 
-![[Untitled 4 2.png]]
+![Untitled 4 2.png](Untitled 4 2.png)
 
-![[SmartSelect_20230802_022846_Chrome.jpg]]
+![SmartSelect_20230802_022846_Chrome.jpg](SmartSelect_20230802_022846_Chrome.jpg)
 
 
-![[Untitled 5 2.png]]
+![Untitled 5 2.png](Untitled 5 2.png)
 
-![[SmartSelect_20230802_022954_Chrome.jpg]]
+![SmartSelect_20230802_022954_Chrome.jpg](SmartSelect_20230802_022954_Chrome.jpg)
 
   
-![[Untitled 6 2.png]]
+![Untitled 6 2.png](Untitled 6 2.png)
 
-![[SmartSelect_20230802_023050_Chrome.jpg]]
+![SmartSelect_20230802_023050_Chrome.jpg](SmartSelect_20230802_023050_Chrome.jpg)
+
+
+
+
+
+

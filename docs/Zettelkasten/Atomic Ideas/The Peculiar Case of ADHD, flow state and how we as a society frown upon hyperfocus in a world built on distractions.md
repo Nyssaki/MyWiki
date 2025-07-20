@@ -8,3 +8,9 @@ But then I guess when you have reached the peak of financial security, this is t
 
 The irony of ADHD is that ADHDers work best during long uninterrupted hours while focused on one important task that is challenging / not boring, according to research this is the best state for most normal human beings, and yet this is labeled as an illness, because we cannot switch off at will to attend to tasks others has decided are more important to us (and therefore we are the problem)?
 
+
+
+
+
+
+

@@ -36,3 +36,9 @@ https://wiki.termux.com/wiki/TeX_Live
 
 
 #Productivity #Android #Software 
+
+
+
+
+
+

@@ -15,13 +15,13 @@ tags:
   - FictionLiterary
 ---
 
-Cover::![[The Scarlet Letter.jpg]]
+Cover::![The Scarlet Letter.jpg](The Scarlet Letter.jpg)
 
 
-- [[#Notes]]
-- [[#Key takeaways]]
-- [[#Quotes]]
-- [[#Summary]]
+- [#Notes](#Notes)
+- [#Key takeaways](#Key takeaways)
+- [#Quotes](#Quotes)
+- [#Summary](#Summary)
 
 ## Notes
 
@@ -30,3 +30,9 @@ Cover::![[The Scarlet Letter.jpg]]
 ## Quotes
 
 ## Summary
+
+
+
+
+
+

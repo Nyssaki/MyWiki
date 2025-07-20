@@ -14,12 +14,12 @@ Status: TBR
 tags: 
 ---
 
-Cover::![[Fahrenheit 451 Cover.jpg]]
+Cover::![Fahrenheit 451 Cover.jpg](Fahrenheit 451 Cover.jpg)
 
-- [[#Notes]]
-- [[#Key takeaways]]
-- [[#Quotes]]
-- [[#Summary]]
+- [#Notes](#Notes)
+- [#Key takeaways](#Key takeaways)
+- [#Quotes](#Quotes)
+- [#Summary](#Summary)
 
 ## Notes
 
@@ -28,3 +28,9 @@ Cover::![[Fahrenheit 451 Cover.jpg]]
 ## Quotes
 
 ## Summary
+
+
+
+
+
+

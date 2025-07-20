@@ -15,12 +15,12 @@ tags:
   - Mystery
 ---
 
-Cover:: ![[Dan Brown - DaVinci Code.jpg]]
+Cover:: ![Dan Brown - DaVinci Code.jpg](Dan Brown - DaVinci Code.jpg)
 
-- [[#Notes]]
-- [[#Key takeaways]]
-- [[#Quotes]]
-- [[#Summary]]
+- [#Notes](#Notes)
+- [#Key takeaways](#Key takeaways)
+- [#Quotes](#Quotes)
+- [#Summary](#Summary)
 
 ## Notes
 
@@ -29,3 +29,9 @@ Cover:: ![[Dan Brown - DaVinci Code.jpg]]
 ## Quotes
 
 ## Summary
+
+
+
+
+
+

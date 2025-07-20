@@ -8,14 +8,14 @@ tags:
 ---
 
 
-Cover::![[Brave-new-world-aldous-huxley.jpg]]
+Cover::![Brave-new-world-aldous-huxley.jpg](Brave-new-world-aldous-huxley.jpg)
 
 **Table of contents**
 
-- [[#Notes]]
-- [[#Key takeaways]]
-- [[#Quotes]]
-- [[#Summary]]
+- [#Notes](#Notes)
+- [#Key takeaways](#Key takeaways)
+- [#Quotes](#Quotes)
+- [#Summary](#Summary)
 
   
 
@@ -26,3 +26,9 @@ Cover::![[Brave-new-world-aldous-huxley.jpg]]
 ## Quotes
 
 ## Summary
+
+
+
+
+
+

@@ -11,3 +11,9 @@ Main purpose for TextMaker: long form writing, and perhaps export to PDF / ePub.
 Conclusion: Pandoc/pdflatex .md -> pdf conversion works flawlessly. This means I do not need TextMaker anymore. 
 
 #Productivity #Android #Software 
+
+
+
+
+
+

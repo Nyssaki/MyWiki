@@ -15,12 +15,12 @@ tags:
 ---
 
 
-Cover::![[Attachments/Book Covers/Jane Austen - Sense and Sensibility.jpg]]
+Cover::![](Book Covers/Jane Austen - Sense and Sensibility.jpg)
 
-- [[#Notes]]
-- [[#Key takeaways]]
-- [[#Quotes]]
-- [[#Summary]]
+- [#Notes](#Notes)
+- [#Key takeaways](#Key takeaways)
+- [#Quotes](#Quotes)
+- [#Summary](#Summary)
 
 ## Notes
 
@@ -29,5 +29,11 @@ Cover::![[Attachments/Book Covers/Jane Austen - Sense and Sensibility.jpg]]
 ## Quotes
 
 ## Summary
+
+
+
+
+
+
 
 

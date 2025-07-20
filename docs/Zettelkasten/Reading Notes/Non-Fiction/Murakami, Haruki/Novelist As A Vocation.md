@@ -11,12 +11,12 @@ Status: On-Hold
 tags: 
 ---
 
-Cover::![[1000057136.jpg]]
+Cover::![1000057136.jpg](1000057136.jpg)
 
-- [[#Notes]]
-- [[#Key takeaways]]
-- [[#Quotes]]
-- [[#Summary]]
+- [#Notes](#Notes)
+- [#Key takeaways](#Key takeaways)
+- [#Quotes](#Quotes)
+- [#Summary](#Summary)
 
 ## Notes
 
@@ -25,3 +25,9 @@ Cover::![[1000057136.jpg]]
 ## Quotes
 
 ## Summary
+
+
+
+
+
+

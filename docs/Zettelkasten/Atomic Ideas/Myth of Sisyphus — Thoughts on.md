@@ -11,7 +11,7 @@ And in the case of the show *The Arrow*, the boy who was missing, Oliver, seemed
 How suffocating that must have felt! 
 
 ### Absurd love.
-We're somehow conditioned to think that love means something. I spoke briefly of this in[[Studying nihilism—mental health#Trip To Infinity| Love as meaning]], and I feel this is part of absurditity. No one can explain what love truly is, and yet, we place our entire beings on the concept, the idea, of love. We see this in literature, religion, history. Wars were fought because of love and jealousy, real wars where millions have lost their lives; people taking their own lives when love was lost, etc. If you collect all of literature that has been dedicated to love or were sprung out of love, it seems to me to be the map of a collective illness. 
+We're somehow conditioned to think that love means something. I spoke briefly of this in[ Love as meaning](Studying nihilism—mental health#Trip To Infinity), and I feel this is part of absurditity. No one can explain what love truly is, and yet, we place our entire beings on the concept, the idea, of love. We see this in literature, religion, history. Wars were fought because of love and jealousy, real wars where millions have lost their lives; people taking their own lives when love was lost, etc. If you collect all of literature that has been dedicated to love or were sprung out of love, it seems to me to be the map of a collective illness. 
 
 Because for most part, we don't have very good reason to fall in love with somebody. It's always described as a look, a touch or just a few words said in a situation or place where you didn't expect it, and people then runs off chasing that *other* and risking their entire lives for it. 
 
@@ -43,3 +43,9 @@ Is then perhaps that meaning in life for me is not the usual materialistic thing
 <I>"It is a matter of living in this state of the absurd I know on what it is founded, this mind and this world straining against each other without being able to embrace each other"</i>: a random jump to the movie, Eternal Summer, with Shane and Jonathan. "The Earth circles the Sun but cannot approach it." It is two opposites that are so strong that they will destroy each other if you attempt to reconcile the two, because the only way to reconcile them would be to change one of the two and thus make irreversible damage to their soul (they will not be the same person after the change and it will then forever taint their being). This is the <u>absurd tragedy</u>: For them to be together, one of them has to be destroyed. 
 
 <u>Philosophical suicide</u>: not an actual suicide, but mere surrender to a leap of faith (so to speak). Camus' argues that a determined soul will always manage and hence not bow to the pressure of throwing aside intellect and the equilibrium of absurd in order to fit into an arbitrary solution that the seeker latch onto.  
+
+
+
+
+
+
