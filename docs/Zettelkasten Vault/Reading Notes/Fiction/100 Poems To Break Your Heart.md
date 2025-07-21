@@ -15,8 +15,7 @@ tags:
   - Poetry
 ---
 
-Cover
-![](./100-poems.jpg)
+![Cover](images/100-poems.jpg)
 
 - [#Notes](#Notes)
 - [#Key takeaways](#Key takeaways)
