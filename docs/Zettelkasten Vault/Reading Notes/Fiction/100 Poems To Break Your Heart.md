@@ -15,7 +15,8 @@ tags:
   - Poetry
 ---
 
-Cover [[https://github.com/Nyssaki/mywiki/tree/main/docs/Attachments/Book%20Covers/Edward%20Hirsch%20-%20100%20Poems%20to%20Break%20Your%20Heart.jpg]]
+Cover
+[[https://github.com/Nyssaki/mywiki/tree/main/docs/Attachments/Book%20Covers/Edward%20Hirsch%20-%20100%20Poems%20to%20Break%20Your%20Heart.jpg | 100 Poems]]
 
 - [#Notes](#Notes)
 - [#Key takeaways](#Key takeaways)
