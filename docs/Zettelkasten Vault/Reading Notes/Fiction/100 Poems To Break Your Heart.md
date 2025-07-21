@@ -15,7 +15,7 @@ tags:
   - Poetry
 ---
 
-![Cover](images/100-poems.jpg)
+![Cover](https://github.com/Nyssaki/mywiki/blob/main/docs/images/100-poems.jpg)
 
 - [#Notes](#Notes)
 - [#Key takeaways](#Key takeaways)
