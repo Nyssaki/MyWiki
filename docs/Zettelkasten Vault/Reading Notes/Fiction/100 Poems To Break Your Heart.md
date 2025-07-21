@@ -16,7 +16,7 @@ tags:
 ---
 
 Cover
-<img src="/images/100-poems.jpg" alt ="100 Poems">
+![](./100-poems.jpg)
 
 - [#Notes](#Notes)
 - [#Key takeaways](#Key takeaways)
