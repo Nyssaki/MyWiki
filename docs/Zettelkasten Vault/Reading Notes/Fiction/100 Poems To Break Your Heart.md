@@ -16,7 +16,7 @@ tags:
 ---
 
 Cover
-[[https://github.com/Nyssaki/mywiki/blob/main/docs/images/100-poems.jpg]]
+<img src="https://github.com/Nyssaki/mywiki/blob/main/docs/images/100-poems.jpg" alt = 100 Poems>
 
 - [#Notes](#Notes)
 - [#Key takeaways](#Key takeaways)
