@@ -1,9 +1,0 @@
-/* Hide ONLY the site_name text */
-.md-header__topic span:first-child {
-    display: none !important;
-}
-
-/* Ensure buttons remain visible */
-.md-header__button {
-    display: flex !important;
-}

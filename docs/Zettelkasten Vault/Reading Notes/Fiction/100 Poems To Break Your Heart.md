@@ -15,7 +15,7 @@ tags:
   - Poetry
 ---
 
-Cover::![1000057118.jpg](1000057118.jpg)
+Cover::![1000057118.jpg](F:\GitHub\mywiki\docs\Attachments\Book%20Covers\Edward%20Hirsch%20-%20100%20Poems%20to%20Break%20Your%20Heart.jpg)
 
 - [#Notes](#Notes)
 - [#Key takeaways](#Key takeaways)
@@ -29,9 +29,3 @@ Cover::![1000057118.jpg](1000057118.jpg)
 ## Quotes
 
 ## Summary
-
-
-
-
-
-
